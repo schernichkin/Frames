@@ -1,6 +1,7 @@
 /.cabal-sandbox/
+/.stack-work/
 /TAGS
-/cabal.config 
+/cabal.config
 /cabal.sandbox.config
 /dist/
 /src/TAGS
